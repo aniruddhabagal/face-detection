@@ -1,0 +1,17 @@
+{
+  "name": "Falsify",
+  "description": "Falsify is a extension for verifying fake data for testing purposes.",
+  "version": "0.0.0",
+  "manifest_version": 3,
+  "action": {
+    "deafault_title": "Falsify",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "512": "logo512.png"
+    
+  }
+
+}
+
+}
